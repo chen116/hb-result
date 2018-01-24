@@ -1,0 +1,4 @@
+File reading completed!
+*******  Digest Calucation:Parallel Process  *******
+/home/eeb205/dynamo/heartbeats/hbed/29267
+Allocating log for 29267, 58534

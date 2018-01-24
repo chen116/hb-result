@@ -1,0 +1,4 @@
+File reading completed!
+*******  Digest Calucation:Parallel Process  *******
+/heartbeats/hbed/52
+Allocating log for 52, 104

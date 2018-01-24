@@ -1,0 +1,32 @@
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 1000 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 36765 microseconds.
+   (= 36765 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+/home/eeb205/dynamo/heartbeats/hbed/21133
+Allocating log for 21133, 42266
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            3787.2     0.042481     0.042248     0.048861
+Scale:           3718.4     0.043326     0.043030     0.050179
+Add:             4399.9     0.054792     0.054546     0.061797
+Triad:           4351.5     0.055428     0.055153     0.062614
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
