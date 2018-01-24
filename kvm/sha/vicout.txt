@@ -1,0 +1,4 @@
+File reading completed!
+*******  Digest Calucation:Parallel Process  *******
+/home/vic/heartbeats/hbed//11418
+Allocating log for 11418, 22836
